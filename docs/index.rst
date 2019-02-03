@@ -6,24 +6,39 @@
 SermonCut documentation
 =====================================
 
+This is the official documentation for SermonCut.
+
+You can find SermonCut on `GitHub <https://github.com/gustafklinga/sermoncut>`_.
+
 .. toctree::
    :maxdepth: 1
    :caption: About
 
-   ./about/introduction.rst
+   ./about/whatis.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Installation
 
+   ./installation/from_dist.rst
+   ./installation/from_source.rst
+
 .. toctree::
    :maxdepth: 1
    :caption: Usage
+
+   ./usage/general_usage.rst
+   ./usage/shortcuts.rst
+   ./usage/settings.rst
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Advanced
+
+   ./advanced/autotagging.rst
 
 .. toctree::
    :maxdepth: 1
    :caption: Support
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contact
+   ./support/notworking.rst
