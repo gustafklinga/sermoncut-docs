@@ -8,6 +8,17 @@ Here the settings of SermonCut is stored. Here you can customize tagging and mor
 values.
 
 *********
+[app]
+*********
+
+======================== ==============================================================
+Variable                 Instructions
+======================== ==============================================================
+language                 Set interface language by language code. E.g. *en* (english),
+                         *sv* (swedish)
+======================== ==============================================================
+
+*********
 [tagging]
 *********
 
